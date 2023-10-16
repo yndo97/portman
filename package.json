@@ -1,20 +1,16 @@
 {
-  "name": "@apideck/portman",
+  "name": "@yndo97/portman",
   "version": "1.22.0",
-  "description": "Port OpenAPI Spec to Postman Collection, with contract & variation tests included",
+  "description": "Port OpenAPI Spec to Postman Collection, with contract & variation tests included. It's a TEST lib. PLEASE, DON'T USE IT IN YOUR PROJECT",
   "homepage": "https://apideck.com",
-  "author": "Apideck <support@apideck.com> (https://apideck.com/)",
-  "contributors": [
-    "Nick Lloyd <nick@apideck.com>",
-    "Tim Haselaars"
-  ],
+  "author": "yndo97 (yndo97@gmail.com)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apideck-libraries/portman"
+    "url": "https://github.com/yndo97/portman"
   },
   "bugs": {
-    "url": "https://github.com/apideck-libraries/portman/issues"
+    "url": "https://github.com/yndo97/portman/issues"
   },
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
