@@ -1,6 +1,6 @@
 {
-  "name": "@yndo97/portman",
-  "version": "1.22.0",
+  "name": "@shopmonkeyus/portman",
+  "version": "0.0.0",
   "description": "Port OpenAPI Spec to Postman Collection, with contract & variation tests included. It's a TEST lib. PLEASE, DON'T USE IT IN YOUR PROJECT",
   "homepage": "https://apideck.com",
   "author": "yndo97 (yndo97@gmail.com)",
